@@ -1,0 +1,10 @@
+{
+  "description": "This mobile-first fintech app offers a seamless UPI payment experience with features like secure transactions, balance tracking, and personalized dashboards for users.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
